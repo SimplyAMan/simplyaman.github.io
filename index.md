@@ -7,5 +7,6 @@ layout: home
 
   - Oracle administration tasks
        - [Add audit on DDL changes on Oracle RDBMS](oracle/audit_dll.html)
-       - [Gather table statistics](oracle/gather_tab_stats.html)
+       - [Gather statistics](oracle/gather_stats.html)
+       - [How to calculate tables size in Oracle](oracle/table_size.html)
   - PL/SQL tips       
