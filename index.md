@@ -13,3 +13,6 @@ layout: home
 - PL/SQL tips       
 - Continuous Integrations
   - [Генерація закритого і відкритого ключів для Git репозитарію](ci/key_jenkins.html)
+- Java tips
+  - [“PKIX path building failed” and “unable to find valid certification path to requested target”](java/problems_with_certificates.html)
+  - [Add Oracle to your pom.xml](java/add_oracle_to_maven.html)
